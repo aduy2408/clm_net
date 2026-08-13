@@ -22,13 +22,10 @@ clm_net/
 
 ## Requirements
 
-Use the project environment used for the experiments:
 
 ```bash
-source /home/duylearch/miniconda3/bin/activate ml2
+pip install -r requirements.txt
 ```
-
-The training script expects PyTorch, Albumentations, OpenCV, SciPy, tqdm, timm, and NATTEN.
 
 ## Dataset Layout
 
